@@ -1,2 +1,2 @@
 # Syno
-It's an open source chat system 
+It's a secure open source chat system.
